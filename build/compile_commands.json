@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ademnem/projects/143B-Virtual-Memory/build",
+  "command": "/usr/bin/g++  -I/home/ademnem/projects/143B-Virtual-Memory/include -g -std=gnu++23 -o CMakeFiles/main.dir/src/vm.cpp.o -c /home/ademnem/projects/143B-Virtual-Memory/src/vm.cpp",
+  "file": "/home/ademnem/projects/143B-Virtual-Memory/src/vm.cpp"
+},
+{
+  "directory": "/home/ademnem/projects/143B-Virtual-Memory/build",
+  "command": "/usr/bin/g++  -I/home/ademnem/projects/143B-Virtual-Memory/include -g -std=gnu++23 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ademnem/projects/143B-Virtual-Memory/src/main.cpp",
+  "file": "/home/ademnem/projects/143B-Virtual-Memory/src/main.cpp"
+},
+{
+  "directory": "/home/ademnem/projects/143B-Virtual-Memory/build",
+  "command": "/usr/bin/g++  -I/home/ademnem/projects/143B-Virtual-Memory/include -g -std=gnu++23 -o CMakeFiles/test.dir/src/vm.cpp.o -c /home/ademnem/projects/143B-Virtual-Memory/src/vm.cpp",
+  "file": "/home/ademnem/projects/143B-Virtual-Memory/src/vm.cpp"
+},
+{
+  "directory": "/home/ademnem/projects/143B-Virtual-Memory/build",
+  "command": "/usr/bin/g++  -I/home/ademnem/projects/143B-Virtual-Memory/include -g -std=gnu++23 -o CMakeFiles/test.dir/tests/vm_tests.cpp.o -c /home/ademnem/projects/143B-Virtual-Memory/tests/vm_tests.cpp",
+  "file": "/home/ademnem/projects/143B-Virtual-Memory/tests/vm_tests.cpp"
+}
+]

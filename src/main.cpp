@@ -1,9 +1,13 @@
-#include <iostream>
+#include "vm.hpp"
 
 using namespace std;
 
-int main() {
-    cout << "hello" << endl;
+int main(int argc, char** argv) {
+    if (argc != 2)
+        return EXIT_FAILURE;
+    
+    initialize(argv[1]);
+    translateVirtualAddresses();
 
-    return 0;
+    return EXIT_SUCCESS;
 }

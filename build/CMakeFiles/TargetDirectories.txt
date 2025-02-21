@@ -1,0 +1,4 @@
+/home/ademnem/projects/143B-Virtual-Memory/build/CMakeFiles/main.dir
+/home/ademnem/projects/143B-Virtual-Memory/build/CMakeFiles/test.dir
+/home/ademnem/projects/143B-Virtual-Memory/build/CMakeFiles/edit_cache.dir
+/home/ademnem/projects/143B-Virtual-Memory/build/CMakeFiles/rebuild_cache.dir
